@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student at Harvard University, advised by [Natesh Pillai](http://www.people.fas.harvard.edu/~pillai/). My primary research interest is the design and theory of MCMC. I have also done theoretical work related to distributed estimation. 
+I am a PhD student at Harvard University, advised by [Natesh Pillai](http://www.people.fas.harvard.edu/~pillai/). My primary research interest is the design and theory of MCMC. I have also done theoretical work related to distributed estimation. Before attending Harvard, I did a masters degree at in Statistical and Economic modeling at [Duke University](www.duke.edu). I studied under [Surya Tokdar](http://www2.stat.duke.edu/~st118/) in the [Department of Statistical Science](https://stat.duke.edu) and [Michelle Connolly](https://scholars.duke.edu/person/connolly) in the [Economics Department](https://econ.duke.edu). My BA is from the [University of Wisconsin-Madison](wisc.edu), where I doubled majored in mathematics and economics. I also participated in the [Russian Flagship Program](https://russianflagship.wisc.edu) as an undergraduate. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
