@@ -27,13 +27,13 @@ education:
   courses:
   - course: PhD in Statistics
     institution: Harvard University
-    year: 2012
+    year: 2022 (expected)
   - course: MA in Statiistics and Economic Modeling
     institution: Duke University
-    year: 2009
+    year: 2017
   - course: BA in Mathematics and Economics
     institution: University of Wisconsin-Madison
-    year: 2008
+    year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -70,6 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student at Harvard University, advised by Natesh Pillai. My primary research interest is the design and theory of MCMC. I have also done theoretical work related to distributed estimation. 
+I am a PhD student at Harvard University, advised by [Natesh Pillai](http://www.people.fas.harvard.edu/~pillai/). My primary research interest is the design and theory of MCMC. I have also done theoretical work related to distributed estimation. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
