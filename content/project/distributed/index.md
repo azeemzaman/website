@@ -28,6 +28,6 @@ slides: example
 
 Suppose that we have data distributed across multiple computers and we wish to estimate some quantity on a central computer. Each of the computers on the network can transmit data to the central machine. We impose two constraints that make this setting much more interesting. The first is that we must transmit binary strings, so continuous data must be approximated in binary before being transmitted. The second is that we impose communication constrainits which limit the number of bits that can be transmitted. These two constraints are imposed to reflect the important real world fact that transmission across a network is slow and costly.
 
-For parametric problems, we often have sufficient statistics that compress the data significantly. In nonparametric problems, the situation is much more interesting. The sufficient statistics are infinite dimensional, so communication constraints limit the precision of the transmitted data and the number of statistics transmitted. 
+For parametric problems, we often have sufficient statistics that compress the data significantly. In nonparametric problems, the situation is much more interesting. The sufficient statistics are infinite dimensional, so communication constraints limit the precision of the transmitted data and the number of statistics transmitted. We developed a framework to analyze a large class of non-parametric problems, inlcuding density estimation, non-parametric regression, and binary regression. 
 
 
